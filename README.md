@@ -36,7 +36,7 @@ A powerful Streamlit application that allows you to analyze your CSV data using 
    pip install -r requirements.txt
    ```
 
-**How to Run**
+##  How to Run
 
 1. Get your Google API Key from Google AI Studio.
 2. Run the Streamlit app:
@@ -45,11 +45,13 @@ A powerful Streamlit application that allows you to analyze your CSV data using 
    ```
 3. The app will open in your browser at http://localhost:8501.
 
-**Usage Guide**
+##  Usage Guide
 1. Enter API Key: Paste your Google API Key in the sidebar.
 2. Select Model: Wait for the app to validate your key and select a model from the dropdown (e.g., gemini-1.5-flash).
 3. Upload CSV: Drag and drop your CSV file.
 4. Ask Questions: Type questions like:
-     . "What is the correlation between age and salary?"
-     . "Plot a pie chart of department distribution"
-     . "Summarize the dataframe"
+   . "What is the correlation between age and salary?"
+   . "Plot a pie chart of department distribution"
+   . "Summarize the dataframe"
+
+**Thanks for checking out the project**
