@@ -1,0 +1,14 @@
+# Ignore virtual environment
+myvenv/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated charts folder
+exports/
+
+# Ignore system files
+.DS_Store

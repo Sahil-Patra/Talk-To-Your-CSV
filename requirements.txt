@@ -1,0 +1,6 @@
+streamlit
+pandas
+pandasai
+matplotlib
+langchain-google-genai
+google-generativeai
