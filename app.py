@@ -43,7 +43,7 @@ with st.sidebar:
     
     selected_model = "gemini-1.5-flash" # Default fallback
     
-    # 2. Dynamic Model Fetching (The Fix for 404 Errors)
+    # 2. Dynamic Model Fetching
     if api_key:
         try:
             genai.configure(api_key=api_key)
